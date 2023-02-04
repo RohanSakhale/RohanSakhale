@@ -22,4 +22,3 @@
 
 ![GitHub Contribution Stats](https://github-readme-stats.vercel.app/api?username=RohanSakhale)
 
-![3D Profile](https://raw.githubusercontent.com/RohanSakhale/RohanSakhale/88000618ada53627ba6998cc88be8bdb0b2a6a9e/profile-3d-contrib/profile-green-animate.svg)
